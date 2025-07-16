@@ -54,7 +54,7 @@
 
 ## Time Spent
 
-- **Initial setup & development:** ~3-4 hours
-- **Deployment & troubleshooting (GitHub Pages, MSW, routing):** ~1 hour
-- **Documentation & polish:** ~30 minutes
+- **Initial setup & development:** ~4-6 hours
+- **Deployment & troubleshooting (GitHub Pages, MSW, routing):** ~1-2 hour
+- **Documentation & polish:** ~30-45 minutes
 

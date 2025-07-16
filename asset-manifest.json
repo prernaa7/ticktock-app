@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ticktock-app/static/css/main.03002c16.css",
-    "main.js": "/ticktock-app/static/js/main.374b4b07.js",
+    "main.js": "/ticktock-app/static/js/main.067d25b8.js",
     "index.html": "/ticktock-app/index.html",
     "main.03002c16.css.map": "/ticktock-app/static/css/main.03002c16.css.map",
-    "main.374b4b07.js.map": "/ticktock-app/static/js/main.374b4b07.js.map"
+    "main.067d25b8.js.map": "/ticktock-app/static/js/main.067d25b8.js.map"
   },
   "entrypoints": [
     "static/css/main.03002c16.css",
-    "static/js/main.374b4b07.js"
+    "static/js/main.067d25b8.js"
   ]
 }

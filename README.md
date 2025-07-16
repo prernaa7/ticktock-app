@@ -58,3 +58,4 @@
 - **Deployment & troubleshooting (GitHub Pages, MSW, routing):** ~1-2 hour
 - **Documentation & polish:** ~30-45 minutes
 
+Feedback and suggestions are welcome and appreciated!

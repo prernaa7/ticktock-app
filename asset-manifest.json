@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ticktock-app/static/css/main.03002c16.css",
+    "main.js": "/ticktock-app/static/js/main.32bfa83b.js",
+    "index.html": "/ticktock-app/index.html",
+    "main.03002c16.css.map": "/ticktock-app/static/css/main.03002c16.css.map",
+    "main.32bfa83b.js.map": "/ticktock-app/static/js/main.32bfa83b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03002c16.css",
+    "static/js/main.32bfa83b.js"
+  ]
+}
